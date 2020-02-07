@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "badlife.fsharp": {
+      "commandName": "Project",
+      "commandLineArgs": "file:sample_input.txt torus:false"
+    }
+  }
+}
